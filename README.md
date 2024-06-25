@@ -9,4 +9,4 @@ Than use this prefab:
 
 Rough example scene and prefab included.
 
-Code developed during the theater lab production of minus.eins "lügen über alice" ( https://aliceberlin.com/ ) by Phil Jungschlaeger, Leon-Etienne Kühr
+Code developed during the theater lab production of minus.eins "lügen über alice" ( https://aliceberlin.com/ ) by Phil Jungschlaeger, Leon-Etienne Kühr and Lucas Hübner
